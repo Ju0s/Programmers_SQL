@@ -9,3 +9,5 @@
 특정 형질을 가지는 대장균 찾기: https://school.programmers.co.kr/learn/courses/30/lessons/301646
 
 평균 일일 대여 요금 구하기: https://school.programmers.co.kr/learn/courses/30/lessons/151136
+
+한 해에 잡은 물고기 수 구하기: https://school.programmers.co.kr/learn/courses/30/lessons/298516
