@@ -10,4 +10,8 @@
 
 평균 일일 대여 요금 구하기: https://school.programmers.co.kr/learn/courses/30/lessons/151136
 
+## String, Date
 한 해에 잡은 물고기 수 구하기: https://school.programmers.co.kr/learn/courses/30/lessons/298516
+
+## SUM, MAX, MIN
+잡은 물고기 중 가장 큰 물고기의 길이 구하기: https://school.programmers.co.kr/learn/courses/30/lessons/298515
