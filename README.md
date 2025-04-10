@@ -7,6 +7,8 @@
 
 [가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517)
 
+[멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
+
 [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
 
 [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258)
