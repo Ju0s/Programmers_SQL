@@ -13,6 +13,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298517)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%2010%EB%A7%88%EB%A6%AC%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 대장균의 크기에 따라 분류하기 2
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/301649)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%ED%81%AC%EA%B8%B0%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0%202.sql)
+
 - 멸종위기의 대장균 찾기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%9D%98%20%EB%8C%80%EC%9E%A5%EA%B7%A0%20%EC%B0%BE%EA%B8%B0.sql)
