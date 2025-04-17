@@ -13,6 +13,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298517)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%2010%EB%A7%88%EB%A6%AC%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 대장균의 크기에 따라 분류하기 1
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%ED%81%AC%EA%B8%B0%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0%201.sql)
+
 - 대장균의 크기에 따라 분류하기 2
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/301649)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%ED%81%AC%EA%B8%B0%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0%202.sql)
@@ -20,6 +24,10 @@
 - 멸종위기의 대장균 찾기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%A9%B8%EC%A2%85%EC%9C%84%EA%B8%B0%EC%9D%98%20%EB%8C%80%EC%9E%A5%EA%B7%A0%20%EC%B0%BE%EA%B8%B0.sql)
+
+- 부모의 형질을 모두 가지는 대장균 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/301647)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B6%80%EB%AA%A8%EC%9D%98%20%ED%98%95%EC%A7%88%EC%9D%84%20%EB%AA%A8%EB%91%90%20%EA%B0%80%EC%A7%80%EB%8A%94%20%EB%8C%80%EC%9E%A5%EA%B7%A0%20%EC%B0%BE%EA%B8%B0.sql)
 
 - 서울에 위치한 식당 목록 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
@@ -46,11 +54,19 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/Python%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B0%BE%EA%B8%B0.sql)
 
 ## String, Date
+- 분기별 분화된 대장균의 개체 수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/299308)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B6%84%EA%B8%B0%EB%B3%84%20%EB%B6%84%ED%99%94%EB%90%9C%20%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%EA%B0%9C%EC%B2%B4%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 한 해에 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298516)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%95%9C%20%ED%95%B4%EC%97%90%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 ## SUM, MAX, MIN
+- 연도별 대장균 크기의 편차 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/299310)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EB%8F%84%EB%B3%84%20%EB%8C%80%EC%9E%A5%EA%B7%A0%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%ED%8E%B8%EC%B0%A8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 잡은 물고기 중 가장 큰 물고기의 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298515)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A4%91%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EC%9D%98%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
