@@ -10,4 +10,4 @@ WHERE SKILL_1 = 'Python'
     OR SKILL_2 = 'Python'
     OR SKILL_3 = 'Python'
 -- ID를 기준으로 오름차순 정렬
-ORDER BY ID
+ORDER BY ID;
