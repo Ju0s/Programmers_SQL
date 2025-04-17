@@ -17,4 +17,4 @@ SELECT
     END AS COLONY_NAME
 FROM ECOLI_RANKS
 -- 결과는 개체의 ID 에 대해 오름차순 정렬
-ORDER BY ID
+ORDER BY ID;
