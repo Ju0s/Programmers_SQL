@@ -14,4 +14,4 @@ WHERE RI.ADDRESS LIKE '서울%'
 GROUP BY RI.REST_ID
 -- 결과는 평균점수를 기준으로 내림차순 정렬해주시고, 
 -- 평균점수가 같다면 즐겨찾기수를 기준으로 내림차순 정렬해주세요.
-ORDER BY SCORE DESC, RI.FAVORITES DESC
+ORDER BY SCORE DESC, RI.FAVORITES DESC;
