@@ -58,6 +58,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293258)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%94%EC%B1%99%EC%9D%B4%20%EC%9E%A1%EC%9D%80%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 특정 물고기를 잡은 총 수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/298518)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%A5%BC%20%EC%9E%A1%EC%9D%80%20%EC%B4%9D%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 특정 세대의 대장균 찾기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/301650)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EC%84%B8%EB%8C%80%EC%9D%98%20%EB%8C%80%EC%9E%A5%EA%B7%A0%20%EC%B0%BE%EA%B8%B0.sql)
