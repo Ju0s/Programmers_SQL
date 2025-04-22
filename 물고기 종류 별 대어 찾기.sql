@@ -1,0 +1,17 @@
+-- 물고기의 ID, 물고기 이름, 길이
+SELECT
+    F.ID,
+    N.FISH_NAME,
+    F.LENGTH AS LENGTH
+FROM FISH_INFO AS F
+LEFT JOIN FISH_NAME_INFO AS N ON F.FISH_TYPE = N.FISH_TYPE
+-- 물고기 종류 별로 가장 큰 물고기
+WHERE (F.FISH_TYPE, F.LENGTH) IN (
+    SELECT
+        FISH_TYPE,
+        MAX(LENGTH)
+    FROM FISH_INFO
+    GROUP BY FISH_TYPE       
+)
+-- 물고기의 ID에 대해 오름차순 정렬
+ORDER BY F.ID;
