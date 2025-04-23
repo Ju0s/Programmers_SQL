@@ -1,0 +1,7 @@
+-- 동물의 아이디와 이름
+SELECT
+    ANIMAL_ID,
+    NAME
+FROM ANIMAL_INS
+-- ANIMAL_ID순으로 조회
+ORDER BY ANIMAL_ID;
