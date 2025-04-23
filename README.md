@@ -1,5 +1,9 @@
 # Programmers_SQL
 ## GROUP BY
+- 월별 잡은 물고기 수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298519)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EC%A1%B0%EA%B1%B4%EC%9D%84%20%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%B3%84%20%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
