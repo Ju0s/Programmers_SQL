@@ -1,0 +1,9 @@
+-- 물고기의 수와 월
+SELECT
+    COUNT(DISTINCT ID) AS FISH_COUNT,
+    MONTH(TIME) AS MONTH
+FROM FISH_INFO
+-- 월별
+GROUP BY MONTH
+-- 월을 기준으로 오름차순 정렬
+ORDER BY MONTH;
