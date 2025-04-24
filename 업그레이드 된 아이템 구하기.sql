@@ -1,0 +1,12 @@
+-- 다음 업그레이드 아이템의 아이템 ID(ITEM_ID), 아이템 명(ITEM_NAME), 아이템의 희귀도(RARITY)
+SELECT
+    P.ITEM_ID,
+    P.ITEM_NAME,
+    P.RARITY
+FROM ITEM_INFO AS I
+JOIN ITEM_TREE AS T ON I.ITEM_ID = T.PARENT_ITEM_ID
+JOIN ITEM_INFO AS P ON T.ITEM_ID = P.ITEM_ID
+-- 아이템의 희귀도가 'RARE'인 아이템
+WHERE I.RARITY = 'RARE'
+-- 아이템 ID를 기준으로 내림차순 정렬
+ORDER BY P.ITEM_ID DESC;
