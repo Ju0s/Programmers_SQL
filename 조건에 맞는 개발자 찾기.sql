@@ -1,0 +1,12 @@
+-- 개발자의 ID, 이메일, 이름, 성
+SELECT
+    ID,
+    EMAIL,
+    FIRST_NAME,
+    LAST_NAME
+FROM DEVELOPERS
+-- Python이나 C# 스킬을 가진 개발자
+WHERE SKILL_CODE & (SELECT CODE FROM SKILLCODES WHERE NAME = 'Python') != 0
+    OR SKILL_CODE & (SELECT CODE FROM SKILLCODES WHERE NAME = 'C#') != 0
+-- ID를 기준으로 오름차순 정렬
+ORDER BY ID;
