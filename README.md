@@ -4,6 +4,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284531)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%85%B8%EC%84%A0%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%97%AD%20%EC%82%AC%EC%9D%B4%20%EA%B1%B0%EB%A6%AC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/151139)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%97%AC%20%ED%9A%9F%EC%88%98%EA%B0%80%20%EB%A7%8E%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%EB%93%A4%EC%9D%98%20%EC%9B%94%EB%B3%84%20%EB%8C%80%EC%97%AC%20%ED%9A%9F%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 물고기 종류 별 잡은 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -11,6 +15,10 @@
 - 월별 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91%2C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.sql)
 
 - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298519)
@@ -98,7 +106,7 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59035)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%AD%EC%88%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.sql)
 
-- 오프라인&온라인 판매 데이터 통합하기
+- 오프라인, 온라인 판매 데이터 통합하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%26%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%8C%90%EB%A7%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0.sql)
 
@@ -168,6 +176,14 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%95%9C%20%ED%95%B4%EC%97%90%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 ## SUM, MAX, MIN
+- 가격이 제일 비싼 식품의 정보 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B0%80%EA%B2%A9%EC%9D%B4%20%EC%A0%9C%EC%9D%BC%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+
+- 가장 비싼 상품 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131697)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B0%80%EC%9E%A5%20%EB%B9%84%EC%8B%BC%20%EC%83%81%ED%92%88%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 동물 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -183,6 +199,18 @@
 - 잡은 물고기 중 가장 큰 물고기의 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298515)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A4%91%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EC%9D%98%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 조건에 맞는 아이템들의 가격의 총합 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/273709)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%95%84%EC%9D%B4%ED%85%9C%EB%93%A4%EC%9D%98%20%EA%B0%80%EA%B2%A9%EC%9D%98%20%EC%B4%9D%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 중복 제거하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)
+
+- 최댓값 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59415)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 - 최솟값 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
