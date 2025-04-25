@@ -12,6 +12,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 식품분류별 가장 비싼 식품의 정보 조회하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84%20%EA%B0%80%EC%9E%A5%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
 - 월별 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -19,6 +23,28 @@
 - 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91%2C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.sql)
+
+- 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/151137)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%ED%8A%B9%EC%A0%95%20%EC%98%B5%EC%85%98%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+[풀이2](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%ED%8A%B9%EC%A0%95%20%EC%98%B5%EC%85%98%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0(2).sql)
+
+- 저자 별 카테고리 별 매출액 집계하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A0%80%EC%9E%90%20%EB%B3%84%20%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0.sql)
+
+- 조건에 맞는 사용자와 총 거래금액 조회하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%B4%9D%20%EA%B1%B0%EB%9E%98%EA%B8%88%EC%95%A1%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 즐겨찾기가 가장 많은 식당 정보 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131123)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%8B%9D%EB%8B%B9%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+[풀이2](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%8B%9D%EB%8B%B9%20%EC%A0%95%EB%B3%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0(2).sql)
+
+- 진료과별 총 예약 횟수 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/132202)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A7%84%EB%A3%8C%EA%B3%BC%EB%B3%84%20%EC%B4%9D%20%EC%98%88%EC%95%BD%20%ED%9A%9F%EC%88%98%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
 - 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298519)
