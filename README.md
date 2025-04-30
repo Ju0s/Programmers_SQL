@@ -1,5 +1,9 @@
 # Programmers_SQL
 ## GROUP BY
+- 고양이와 개는 몇 마리 있을까
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59040)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
+
 - 노선별 평균 역 사이 거리 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284531)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%85%B8%EC%84%A0%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%97%AD%20%EC%82%AC%EC%9D%B4%20%EA%B1%B0%EB%A6%AC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
