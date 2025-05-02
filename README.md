@@ -36,6 +36,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 입양 시각 구하기(1)
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59412)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1).sql)
+
 - 자동차 대여 기록에서 대여중, 대여 가능 여부 구분하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%EC%A4%91%2C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.sql)
