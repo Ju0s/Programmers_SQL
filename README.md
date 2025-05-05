@@ -1,5 +1,9 @@
 # Programmers_SQL
 ## GROUP BY
+- 가격대 별 상품 개수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B0%80%EA%B2%A9%EB%8C%80%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 고양이와 개는 몇 마리 있을까
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59040)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%8A%94%20%EB%AA%87%20%EB%A7%88%EB%A6%AC%20%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
