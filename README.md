@@ -36,6 +36,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84%20%EA%B0%80%EC%9E%A5%20%EB%B9%84%EC%8B%BC%20%EC%8B%9D%ED%92%88%EC%9D%98%20%EC%A0%95%EB%B3%B4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- 언어별 개발자 분류하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/276036)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%96%B8%EC%96%B4%EB%B3%84%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.sql)
+
 - 월별 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
