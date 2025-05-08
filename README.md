@@ -40,6 +40,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/276036)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%96%B8%EC%96%B4%EB%B3%84%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.sql)
 
+- 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/284528)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EA%B0%84%20%ED%8F%89%EA%B0%80%EC%A0%90%EC%88%98%EC%97%90%20%ED%95%B4%EB%8B%B9%ED%95%98%EB%8A%94%20%ED%8F%89%EA%B0%80%20%EB%93%B1%EA%B8%89%20%EB%B0%8F%20%EC%84%B1%EA%B3%BC%EA%B8%88%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
 - 월별 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9B%94%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
