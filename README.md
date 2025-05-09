@@ -28,6 +28,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%A2%85%EB%A5%98%20%EB%B3%84%20%EC%9E%A1%EC%9D%80%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 부서별 평균 연봉 조회하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/284529)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B6%80%EC%84%9C%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%97%B0%EB%B4%89%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
 - 성분으로 구분한 아이스크림 총 주문량
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/133026)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EB%B6%84%ED%95%9C%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EC%B4%9D%20%EC%A3%BC%EB%AC%B8%EB%9F%89.sql)
