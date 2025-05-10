@@ -99,6 +99,10 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EC%A1%B0%EA%B1%B4%EC%9D%84%20%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%B3%84%20%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 ## IS NULL
+- 경기도에 위치한 식품창고 목록 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+
 - 잡은 물고기의 평균 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293259)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EC%9D%98%20%ED%8F%89%EA%B7%A0%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
