@@ -1,0 +1,7 @@
+-- 동물의 ID를 조회
+SELECT ANIMAL_ID
+FROM ANIMAL_INS
+-- 이름이 없는 채로 들어온 동물
+WHERE NAME IS NULL
+-- ID는 오름차순 정렬
+ORDER BY ANIMAL_ID;
