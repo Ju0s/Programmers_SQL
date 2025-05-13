@@ -99,6 +99,10 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EC%A1%B0%EA%B1%B4%EC%9D%84%20%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%B3%84%20%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 ## IS NULL
+- NULL 처리하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.sql)
+
 - 경기도에 위치한 식품창고 목록 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
@@ -123,6 +127,10 @@
 - 3월에 태어난 여성 회원 목록 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131120)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/3%EC%9B%94%EC%97%90%20%ED%83%9C%EC%96%B4%EB%82%9C%20%EC%97%AC%EC%84%B1%20%ED%9A%8C%EC%9B%90%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+
+- Python 개발자 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/276013)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/Python%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B0%BE%EA%B8%B0.sql)
 
 - 가장 큰 물고기 10마리 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298517)
@@ -243,10 +251,6 @@
 - 흉부외과 또는 일반외과 의사 목록 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132203)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC%20%EB%98%90%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC%20%EC%9D%98%EC%82%AC%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
-
-- Python 개발자 찾기
-[문제](https://school.programmers.co.kr/learn/courses/30/lessons/276013)
-[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/Python%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B0%BE%EA%B8%B0.sql)
 
 ## String, Date
 - 분기별 분화된 대장균의 개체 수 구하기
