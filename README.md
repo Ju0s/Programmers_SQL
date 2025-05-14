@@ -107,6 +107,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90%20%EC%9C%84%EC%B9%98%ED%95%9C%20%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
+- 나이 정보가 없는 회원 수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%82%98%EC%9D%B4%20%EC%A0%95%EB%B3%B4%EA%B0%80%20%EC%97%86%EB%8A%94%20%ED%9A%8C%EC%9B%90%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 이름이 없는 동물의 아이디
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59039)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.sql)
