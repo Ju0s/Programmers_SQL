@@ -115,6 +115,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%82%98%EC%9D%B4%20%EC%A0%95%EB%B3%B4%EA%B0%80%20%EC%97%86%EB%8A%94%20%ED%9A%8C%EC%9B%90%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 업그레이드 할 수 없는 아이템 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/273712)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 이름이 없는 동물의 아이디
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59039)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9D%B4%EB%A6%84%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94.sql)
@@ -126,6 +130,11 @@
 - 잡은 물고기의 평균 길이 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/293259)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%EC%9D%98%20%ED%8F%89%EA%B7%A0%20%EA%B8%B8%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+## JOIN
+- 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157339)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EA%B8%B0%EA%B0%84%EB%8F%99%EC%95%88%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%EB%93%A4%EC%9D%98%20%EB%8C%80%EC%97%AC%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 ## SELECT
 - 12세 이하인 여자 환자 목록 출력하기
