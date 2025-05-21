@@ -136,6 +136,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/5%EC%9B%94%20%EC%8B%9D%ED%92%88%EB%93%A4%EC%9D%98%20%EC%B4%9D%EB%A7%A4%EC%B6%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- 그룹별 조건에 맞는 식당 목록 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131124)
+[풀이](https://github.com/Ju0s/Programmers_SQL/tree/main)
+
 - 조건에 맞는 도서와 저자 리스트 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/144854)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%8F%84%EC%84%9C%EC%99%80%20%EC%A0%80%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
