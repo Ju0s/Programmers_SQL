@@ -144,6 +144,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/144854)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%8F%84%EC%84%9C%EC%99%80%20%EC%A0%80%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
+- 없어진 기록 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%86%EC%96%B4%EC%A7%84%20%EA%B8%B0%EB%A1%9D%20%EC%B0%BE%EA%B8%B0.sql)
+
 - 주문량이 많은 아이스크림들 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A3%BC%EB%AC%B8%EB%9F%89%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%93%A4%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
