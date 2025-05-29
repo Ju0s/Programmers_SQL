@@ -136,9 +136,30 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/5%EC%9B%94%20%EC%8B%9D%ED%92%88%EB%93%A4%EC%9D%98%20%EC%B4%9D%EB%A7%A4%EC%B6%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- FrontEnd 개발자 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/276035)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/FrontEnd%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B0%BE%EA%B8%B0.sql)
+
 - 그룹별 조건에 맞는 식당 목록 출력하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131124)
 [풀이](https://github.com/Ju0s/Programmers_SQL/tree/main)
+
+- 보호소에서 중성화한 동물
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59045#fn10)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%20%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%20%EB%8F%99%EB%AC%BC.sql)
+
+- 상품 별 오프라인 매출 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131533)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%83%81%ED%92%88%20%EB%B3%84%20%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%20%EB%A7%A4%EC%B6%9C%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 상품을 구매한 회원 비율 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131534)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%83%81%ED%92%88%EC%9D%84%20%EA%B5%AC%EB%A7%A4%ED%95%9C%20%ED%9A%8C%EC%9B%90%20%EB%B9%84%EC%9C%A8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 오랜 기간 보호한 동물(1)
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59044)
+[풀이1](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(1).sql)
+[풀이2](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(1)%20(2).sql)
 
 - 있었는데요 없었습니다
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59043)
@@ -301,6 +322,10 @@
 - 연도 별 평균 미세먼지 농도 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284530)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EB%8F%84%20%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%86%8D%EB%8F%84%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 자동차 평균 대여 기간 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=mysql)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8F%89%EA%B7%A0%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EA%B0%84%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 - 한 해에 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298516)
