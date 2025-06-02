@@ -331,6 +331,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%ED%9A%8C%EC%88%98%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9D%98%20%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- 특정 옵션이 포함된 자동차 리스트 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%8A%B9%EC%A0%95%20%EC%98%B5%EC%85%98%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 한 해에 잡은 물고기 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/298516)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%95%9C%20%ED%95%B4%EC%97%90%20%EC%9E%A1%EC%9D%80%20%EB%AC%BC%EA%B3%A0%EA%B8%B0%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
