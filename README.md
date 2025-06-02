@@ -315,6 +315,10 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC%20%EB%98%90%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC%20%EC%9D%98%EC%82%AC%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
 ## String, Date
+- 대여 기록이 존재하는 자동차 리스트 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 분기별 분화된 대장균의 개체 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/299308)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B6%84%EA%B8%B0%EB%B3%84%20%EB%B6%84%ED%99%94%EB%90%9C%20%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%EA%B0%9C%EC%B2%B4%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -323,9 +327,17 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284530)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EB%8F%84%20%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%86%8D%EB%8F%84%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
 
+- 자동차 대여 기록 별 대여 금액 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%20%EB%B3%84%20%EB%8C%80%EC%97%AC%20%EA%B8%88%EC%95%A1%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
 - 자동차 평균 대여 기간 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=mysql)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8F%89%EA%B7%A0%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EA%B0%84%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
+- 조건별로 분류하여 주문상태 출력하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C%20%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC%20%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
