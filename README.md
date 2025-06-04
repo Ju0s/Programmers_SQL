@@ -331,6 +331,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%20%EB%B3%84%20%EB%8C%80%EC%97%AC%20%EA%B8%88%EC%95%A1%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 자동차 대여 기록에서 장기/단기 대여 구분하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/151138)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EC%9E%A5%EA%B8%B0%2C%EB%8B%A8%EA%B8%B0%20%EB%8C%80%EC%97%AC%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.sql)
+
 - 자동차 평균 대여 기간 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=mysql)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%8F%89%EA%B7%A0%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EA%B0%84%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
