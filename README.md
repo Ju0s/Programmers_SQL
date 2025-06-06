@@ -319,6 +319,10 @@
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+- 루시와 엘라 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.sql)
+
 - 분기별 분화된 대장균의 개체 수 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/299308)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%B6%84%EA%B8%B0%EB%B3%84%20%EB%B6%84%ED%99%94%EB%90%9C%20%EB%8C%80%EC%9E%A5%EA%B7%A0%EC%9D%98%20%EA%B0%9C%EC%B2%B4%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -326,6 +330,10 @@
 - 연도 별 평균 미세먼지 농도 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284530)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EB%8F%84%20%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%86%8D%EB%8F%84%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 이름에 el이 들어가는 동물 찾기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59047)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%9D%B4%EB%A6%84%EC%97%90%20el%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.sql)
 
 - 자동차 대여 기록 별 대여 금액 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
@@ -354,6 +362,10 @@
 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A1%B0%ED%9A%8C%EC%88%98%EA%B0%80%20%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%80%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%9D%98%20%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 중성화 여부 파악하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59409)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.sql)
 
 - 취소되지 않은 진료 예약 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
