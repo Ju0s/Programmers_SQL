@@ -315,6 +315,10 @@
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC%20%EB%98%90%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC%20%EC%9D%98%EC%82%AC%20%EB%AA%A9%EB%A1%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 
 ## String, Date
+- DATETIME에서 DATE로 형 변환
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59414#fn1)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98.sql)
+
 - 대여 기록이 존재하는 자동차 리스트 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%9D%B4%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
@@ -330,6 +334,10 @@
 - 연도 별 평균 미세먼지 농도 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/284530)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%97%B0%EB%8F%84%20%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EB%86%8D%EB%8F%84%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 오랜 기간 보호한 동물(2)
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59411)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(2).sql)
 
 - 이름에 el이 들어가는 동물 찾기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/59047)
@@ -370,6 +378,10 @@
 - 취소되지 않은 진료 예약 조회하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
 [풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%B7%A8%EC%86%8C%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EC%A7%84%EB%A3%8C%20%EC%98%88%EC%95%BD%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+
+- 카테고리 별 상품 개수 구하기
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/131529)
+[풀이](https://github.com/Ju0s/Programmers_SQL/blob/main/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%20%EB%B3%84%20%EC%83%81%ED%92%88%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
 - 특정 옵션이 포함된 자동차 리스트 구하기
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
