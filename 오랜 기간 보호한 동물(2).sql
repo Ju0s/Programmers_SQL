@@ -1,0 +1,11 @@
+-- 아이디와 이름
+SELECT
+    AO.ANIMAL_ID,
+    AO.NAME
+-- 입양을 간 동물
+FROM ANIMAL_OUTS AO
+JOIN ANIMAL_INS AI ON AO.ANIMAL_ID = AI.ANIMAL_ID
+-- 보호 기간이 긴 순
+ORDER BY DATEDIFF(AO.DATETIME, AI.DATETIME) DESC
+-- 보호 기간이 가장 길었던 동물 두 마리
+LIMIT 2;
